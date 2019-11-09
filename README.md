@@ -1,4 +1,4 @@
-# Aria2+AriaNG
+## Aria2+AriaNG
 ### 一.[Aria2](https://github.com/ToyoDAdoubiBackup/doubi)
 系统要求：`CentOS 7+ Debian 6+ Ubuntu 14.04+`
 ```
@@ -7,5 +7,6 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 wget -N --no-check-certificate https://www.moerats.com/usr/shell/Aria2/aria2.sh && chmod +x aria2.sh && bash aria2.sh
 ```
 管理命令：进入下载脚本的目录，运行：`./aria2.sh`
-### 二.[AriaNG](https://github.com/mayswind/AriaNg)
-进入GitHub下载.把src文件夹部署到网站即可
+### 二.[AriaNG](https://github.com/mayswind/AriaNg/releases)
+下载最新版部署到web即可
+**哈哈**
