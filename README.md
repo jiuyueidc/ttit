@@ -9,4 +9,6 @@ wget -N --no-check-certificate https://www.moerats.com/usr/shell/Aria2/aria2.sh 
 管理命令：进入下载脚本的目录，运行：`./aria2.sh`
 ### 二.[AriaNG](https://github.com/mayswind/AriaNg/releases)
 下载最新版部署到web即可
-h5ai默认文档/_h5ai/public/index.php
+### 三.BBR Plus
+[bbr plus](https://ssr.tools/1217)
+`wget --no-check-certificate -O tcp.sh https://github.com/cx9208/Linux-NetSpeed/raw/master/tcp.sh && chmod +x tcp.sh && ./tcp.sh`
